@@ -6,7 +6,7 @@
 ### Future Enhancements:
 - [x] Figure out how to pull additional pattern information to retrieve yarn weight, gauge, difficulty, etc. **(complete on August 30<sup>th</sup>, 2025)**
 - [x] Compile data, begin dashboard **(complete on September 7<sup>th</sup>, 2025)**
-- [ ] Include pattern category
+- [x] Include pattern category **(complete on September 14<sup>th</sup>, 2025)**
 - [ ] Include personal project start and end times
 - [ ] Implement incremental data pull:
 	1.  Compare if favorite is already in the data store
